@@ -1,0 +1,8 @@
+Follow tutorial at https://spring.io/quickstart
+
+
+------------------------------------
+gradle 6.7.1
+https://gradle.org/install/#prerequisites 
+-------------------------------------
+java openjdk version "1.8.0_275"
